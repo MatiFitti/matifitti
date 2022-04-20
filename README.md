@@ -10,10 +10,18 @@
     👋I'm Matias <br/>🚀 Full Stack Developer <br/> 💻 from <mark> &nbsp;Mar del Plata, Argentina&nbsp;</mark> to 🌎
 </h2>
 
-&nbsp;&nbsp;
+<br/>
+<br/>
 
+```
+- 🔭 I'm currently working on a grupal proyect called "Bragi"
+- 🌱 I'm currently learning typescript, but I'm open to any offer of learning something new
+- 📢 People usually call me: Fitti
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'd love to learn play the guitar, I like Formula 1 and all kinda sports, I like a lot watch series and anime
+```
+<br/>
 </br>
-
 
 ## ✔ Things I've learned through this path:
 
@@ -31,11 +39,13 @@
     <code><img width=auto src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code><br />
 </p>
 
+</br></br>
+
 <h1> 📌 My proyects </h1>
 
 <br/>
 
-<h2>Videogames API</h2>
+<h2><mark>&nbsp;Videogames API&nbsp;</mark></h2>
 <h3>
 A page that allows to search throw videogames, brought through <a href="https://rawg.io/apidocs">RAWG API</a>, you can sort it alphabetically, by genres, platforms and if it was created by yourself or brought it by the api.
 Withal a landing page, also, you can create your own game, put a description of it, rating, image, etc. and obviusly access to the details of the games in the page.
@@ -48,7 +58,7 @@ Additionally you can search for a game, and it will show you the games that have
 
 <br/><br/>
 
-<h2>Bragi</h2>
+<h2><mark>&nbsp;Bragi&nbsp;</mark></h2>
 
 <h3>🔨🔌 Work in progess</h3>
 
