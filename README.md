@@ -15,10 +15,10 @@
 
 ```
 - 🔭 I'm currently working on a grupal proyect called "Bragi"
-- 🌱 I'm currently learning typescript, but I'm open to any offer of learning something new
-- 📢 People usually call me: Fitti
+- 🌱 I'm currently learning typescript and tailwind
+- 📢 People call me: Fitti
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'd love to learn play the guitar, I like Formula 1 and all kinda sports, I like a lot watch series and anime
+- ⚡ Fun fact: I like a lot watch series and anime
 ```
 <br/>
 </br>
