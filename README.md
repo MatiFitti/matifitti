@@ -21,7 +21,7 @@
 <br/>
 </br>
 
-## ✔ Things I learned thanks to Henry:
+## ✔ Things I learned in this journey:
 
 <h2 align="center">
     Languages
@@ -29,6 +29,11 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="100" height="100"/> 
 </a>
 
 <h2 align="center">
